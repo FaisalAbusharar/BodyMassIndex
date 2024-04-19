@@ -1,0 +1,25 @@
+{
+  "name": "bmi-app",
+  "version": "0.0.1",
+  "description": "Your BMI Calculated",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "nodemon --watch . --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaisalAbusharar/BMI-App.git"
+  },
+  "author": "Faisal & Laith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FaisalAbusharar/BMI-App/issues"
+  },
+  "homepage": "https://github.com/FaisalAbusharar/BMI-App#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "electron": "^30.0.0",
+    "nodemon": "^3.1.0"
+  }
+}

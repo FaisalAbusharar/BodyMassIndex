@@ -1,0 +1,37 @@
+#title { 
+    text-align: center;
+    font-style: bold;
+    color: #C1CFDA;
+    
+}
+
+body { 
+    font-family: 'Fira Code';font-size: 22px;
+    background-color: #03191E;
+}
+
+.input-group {
+    width: 30% !important;
+    margin-left: 240px;
+}
+
+#calcBtn {
+    margin-top: 20px;
+    margin-left: 292px;
+}
+
+#result {
+    margin-top: 100px;
+    text-align: center;
+    font-style: bold;
+    color: #C1CFDA;
+    margin-right: 40px;
+}
+
+#bmi {
+    margin-top: 5px;
+    text-align: center;
+    font-style: bold;
+    color: white;
+    margin-right: 40px;
+}
